@@ -18,50 +18,50 @@ Mask R-CNN Predictor pre-trained model from PyTorch.
 ## Original Image 
 The original image used to test out the model and the corresponding masks of people present in the image are displayed. 
 
-![Original Image](Sample_Image.png)
+![Original Image](images/Sample_Image.png)
 
-![Mask 1](Mask_1.png)
+![Mask 1](images/Mask_1.png)
 
-![Mask 2](Mask_2.png)
+![Mask 2](images/Mask_2.png)
 
-![Mask 3](Mask_3.png)
+![Mask 3](images/Mask_3.png)
 
-![Mask 4](Mask_4.png)
+![Mask 4](images/Mask_4.png)
 
 ## Model Training
 The model was trained over 100 eopchs and the training loss was visualized in a line graph. 
 
-![Training Loss](Training_loss.png)
+![Training Loss](images/Training_loss.png)
 
 ## Model Evaluation
 The model was given an image to evaluate the accuracy of the masking. The prediction score for each mask is displayed at the top of each masked image. 
 
-![Evaluation Image](Eval_image.png)
+![Evaluation Image](images/Eval_image.png)
 
-![Evaluation Mask 1](Eval_mask1.png)
+![Evaluation Mask 1](images/Eval_mask1.png)
 
-![Evaluation Mask 2](Eval_mask2.png)
+![Evaluation Mask 2](images/Eval_mask2.png)
 
-![Evaluation Mask 3](Eval_mask3.png)
+![Evaluation Mask 3](images/Eval_mask3.png)
 
-![Evaluation Mask 4](Eval_mask4.png)
+![Evaluation Mask 4](images/Eval_mask4.png)
 
-![Evaluation Mask 5](Eval_mask5.png)
+![Evaluation Mask 5](images/Eval_mask5.png)
 
-![Evaluation Mask 6](Eval_mask6.png)
+![Evaluation Mask 6](images/Eval_mask6.png)
 
-![Evaluation Mask 7](Eval_mask7.png)
+![Evaluation Mask 7](images/Eval_mask7.png)
 
-![Evaluation Mask 8](Eval_mask8.png)
+![Evaluation Mask 8](images/Eval_mask8.png)
 
-![Evaluation Mask 9](Eval_mask9.png)
+![Evaluation Mask 9](images/Eval_mask9.png)
 
-![Evaluation Mask 10](Eval_mask10.png)
+![Evaluation Mask 10](images/Eval_mask10.png)
 
-![Evaluation Mask 11](Eval_mask11.png)
+![Evaluation Mask 11](images/Eval_mask11.png)
 
-![Evaluation Mask 12](Eval_mask12.png)
+![Evaluation Mask 12](images/Eval_mask12.png)
 
-![Evaluation Mask 13](Eval_mask13.png)
+![Evaluation Mask 13](images/Eval_mask13.png)
 
-![Evaluation Mask 14](Eval_mask14.png)
+![Evaluation Mask 14](images/Eval_mask14.png)
